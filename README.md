@@ -9,7 +9,7 @@
 🔹 No Obligation, But Ethical Citation Expected 🤝
 While no licensing fees or formal permissions are required, academic integrity matters! If this code contributes to your work, proper citation is mandatory 📚. Kindly acknowledge:
 
-"Source Code Courtesy: Dr. Khan Farhan Rafat (2025). [Code Title/Description]. [URL/GitHub if applicable]."
+"Source Code Courtesy: Dr. Khan Farhan Rafat (2025). Digital Houdini.(https://github.com/jdkfr/PhDCyberSecurity)."
 
 🔹 Disclaimer of Liability ⚠️
 This code is provided "AS IS" without warranties. The author assumes no responsibility for errors, damages, or misuse. Use at your own risk.
